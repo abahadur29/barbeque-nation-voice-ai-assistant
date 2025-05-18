@@ -89,6 +89,10 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 🧪 Sample Conversation Flow
 <img width="719" alt="Conversational Flow " src="https://github.com/user-attachments/assets/20b6152e-11c7-44d8-82d1-bf91990be1d7" />
+<img width="744" alt="1" src="https://github.com/user-attachments/assets/099ee544-b4a2-420f-8910-54e74edb6639" />
+<img width="641" alt="2" src="https://github.com/user-attachments/assets/aa48e295-eeac-4280-b58c-0ab5abe8360b" />
+<img width="737" alt="3" src="https://github.com/user-attachments/assets/03f65485-d558-4b8b-a29c-460835e865fb" />
+<img width="748" alt="4" src="https://github.com/user-attachments/assets/e219a4f3-4798-4a8f-8ffe-8d122cccef5f" />
 
 
 
