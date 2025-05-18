@@ -150,5 +150,6 @@ This approach ensures that the knowledge base remains scalable and can be update
 
 ## 📬 Author
 
-Aditya Bahadur – B.Tech CSE, KIIT University  
-Connect: [LinkedIn](www.linkedin.com/in/aditya-bahadur-b3b709197)
+Aditya Bahadur – B.Tech, Computer Science and Engineering, KIIT University  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-bahadur-b3b709197)
+
