@@ -106,13 +106,16 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 - 📋 Cal.com – Event Types Configuration
 - <img width="956" alt="Screenshot 2025-05-18 174322" src="https://github.com/user-attachments/assets/c5293cc3-869c-4b21-b9a3-4ad4bd45ce90" />
 - ✅ Booking Confirmation UI
-- <img width="227" alt="Screenshot 2025-05-18 171533" src="https://github.com/user-attachments/assets/77466b56-3ffb-4581-93dd-cbb1ed25713d" />
-- <img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/dc934423-1236-4836-aa14-27a7bbb58219" />
-- <img width="221" alt="Screenshot 2025-05-18 171558" src="https://github.com/user-attachments/assets/9d4e32a6-70bc-4d4a-9196-0167a6b0c0d9" />
+- <img width="335" alt="image" src="https://github.com/user-attachments/assets/4cf9bf55-9dbe-404e-ace6-4ed299557aee" />
+
  🔄 Reschedule Workflow — Fully implemented using multi-agent conversational design to manage rescheduling requests efficiently
 - <img width="655" alt="Screenshot 2025-05-18 172952" src="https://github.com/user-attachments/assets/19516998-8339-4fde-a8a4-8dfb51f2fd12" />
  
-- 🗣️ Voice Chat Interaction  
+- 🗣️ Voice Chat Interaction
+- - <img width="227" alt="Screenshot 2025-05-18 171533" src="https://github.com/user-attachments/assets/77466b56-3ffb-4581-93dd-cbb1ed25713d" />
+- <img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/dc934423-1236-4836-aa14-27a7bbb58219" />
+- <img width="221" alt="Screenshot 2025-05-18 171558" src="https://github.com/user-attachments/assets/9d4e32a6-70bc-4d4a-9196-0167a6b0c0d9" />
+  
 - 🔗 Pabbly Form to Cal.com
 - <img width="953" alt="Screenshot 2025-05-18 170816" src="https://github.com/user-attachments/assets/79bcb830-c625-41ae-b3b7-3d2e337faaaf" />
 - <img width="533" alt="Screenshot 2025-05-18 170905" src="https://github.com/user-attachments/assets/41dae272-1639-4c77-9cfa-9d7ef3d82c58" />
