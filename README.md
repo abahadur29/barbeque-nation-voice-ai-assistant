@@ -86,25 +86,32 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 ---
 
 ## 🧪 Sample Conversation Flow
+<img width="719" alt="Conversational Flow " src="https://github.com/user-attachments/assets/20b6152e-11c7-44d8-82d1-bf91990be1d7" />
 
-> _Insert screenshot of Retell AI conversation here._
+
 
 ---
 
 ## 🔁 Sample Reschedule Flow
 
-> _Insert image of Make.com logic and webhook here._
+<img width="655" alt="Screenshot 2025-05-18 172952" src="https://github.com/user-attachments/assets/964b2d00-1e57-4cf5-91ac-60a81fc751e4" />
+
 
 ---
 
 ## 🗂️ Screenshots
 
+🗓️ Cal.com – Bookings View* 
+- <img width="950" alt="Screenshot 2025-05-18 174312" src="https://github.com/user-attachments/assets/d2a2219d-799f-43bc-9473-f61bd2ac9fef" />
+- 📋 Cal.com – Event Types Configuration
+- <img width="956" alt="Screenshot 2025-05-18 174322" src="https://github.com/user-attachments/assets/c5293cc3-869c-4b21-b9a3-4ad4bd45ce90" />
 - ✅ Booking Confirmation UI
 - <img width="227" alt="Screenshot 2025-05-18 171533" src="https://github.com/user-attachments/assets/77466b56-3ffb-4581-93dd-cbb1ed25713d" />
 - <img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/dc934423-1236-4836-aa14-27a7bbb58219" />
 - <img width="221" alt="Screenshot 2025-05-18 171558" src="https://github.com/user-attachments/assets/9d4e32a6-70bc-4d4a-9196-0167a6b0c0d9" />
  🔄 Reschedule Workflow — Fully implemented using multi-agent conversational design to manage rescheduling requests efficiently
 - <img width="655" alt="Screenshot 2025-05-18 172952" src="https://github.com/user-attachments/assets/19516998-8339-4fde-a8a4-8dfb51f2fd12" />
+ 
 - 🗣️ Voice Chat Interaction  
 - 🔗 Pabbly Form to Cal.com
 - <img width="953" alt="Screenshot 2025-05-18 170816" src="https://github.com/user-attachments/assets/79bcb830-c625-41ae-b3b7-3d2e337faaaf" />
