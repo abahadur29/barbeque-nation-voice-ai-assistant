@@ -94,6 +94,29 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 <img width="737" alt="3" src="https://github.com/user-attachments/assets/03f65485-d558-4b8b-a29c-460835e865fb" />
 <img width="748" alt="4" src="https://github.com/user-attachments/assets/e219a4f3-4798-4a8f-8ffe-8d122cccef5f" />
 
+---
+
+## 📌 Summary: Conversational Agent Node Map
+
+This table summarizes all the conversational nodes used in the multi-agent Retell AI flow:
+
+| #  | Node Name                 | Purpose                                      |
+|----|---------------------------|----------------------------------------------|
+| 1  | Welcome Node              | Initial greeting                             |
+| 2  | Location Node             | Ask for outlet location                      |
+| 3  | Intent Decision Node      | Ask what the user wants to do                |
+| 4  | Booking Date/Time Node    | Ask date and time                            |
+| 5  | Booking Pax Node          | Ask number of people                         |
+| 6  | Booking Confirmation Node | Confirm new booking                          |
+| 7  | Modify Name Node          | Get name for modifying booking               |
+| 8  | Modify Date/Time Node     | Ask new date and time                        |
+| 9  | Modify Confirmation Node  | Confirm modified booking                     |
+| 10 | Cancel Name Node          | Get name for cancellation                    |
+| 11 | Cancel Confirmation Node  | Confirm cancellation                         |
+| 12 | Feedback Node             | Take user complaint/feedback                 |
+| 13 | Enquiry Node              | Enquiry / status check                       |
+
+> These nodes are logged and referenced via the Google Sheets Knowledge Base for traceability and future improvements.
 
 
 ---
