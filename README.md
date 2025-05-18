@@ -26,7 +26,7 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 | Component     | Tool Used   | Purpose                                         |
 |---------------|-------------|-------------------------------------------------|
-| Voice Input   | Retell AI   | Interact with customer using a conversational UI |<img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/88db66c8-003f-4636-952d-818b10f9b6be" />
+| Voice Input   | Retell AI   | Interact with customer using a conversational UI |
 
 | Booking       | Cal.com     | Check availability & confirm bookings           |
 | Data Capture  | Pabbly.com  | Form-based input integration for Cal.com        |
@@ -99,10 +99,19 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 🗂️ Screenshots
 
-- ✅ Booking Confirmation UI  
-- 🔄 Reschedule Workflow  
+- ✅ Booking Confirmation UI
+- <img width="227" alt="Screenshot 2025-05-18 171533" src="https://github.com/user-attachments/assets/77466b56-3ffb-4581-93dd-cbb1ed25713d" />
+- <img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/dc934423-1236-4836-aa14-27a7bbb58219" />
+- <img width="221" alt="Screenshot 2025-05-18 171558" src="https://github.com/user-attachments/assets/9d4e32a6-70bc-4d4a-9196-0167a6b0c0d9" />
+ 🔄 Reschedule Workflow — Fully implemented using multi-agent conversational design to manage rescheduling requests efficiently
+- <img width="655" alt="Screenshot 2025-05-18 172952" src="https://github.com/user-attachments/assets/19516998-8339-4fde-a8a4-8dfb51f2fd12" />
 - 🗣️ Voice Chat Interaction  
 - 🔗 Pabbly Form to Cal.com
+- <img width="953" alt="Screenshot 2025-05-18 170816" src="https://github.com/user-attachments/assets/79bcb830-c625-41ae-b3b7-3d2e337faaaf" />
+- <img width="533" alt="Screenshot 2025-05-18 170905" src="https://github.com/user-attachments/assets/41dae272-1639-4c77-9cfa-9d7ef3d82c58" />
+- <img width="617" alt="Screenshot 2025-05-18 170924" src="https://github.com/user-attachments/assets/65c6c54a-73d8-4307-a87f-7576c17c5715" />
+- <img width="560" alt="Screenshot 2025-05-18 170938" src="https://github.com/user-attachments/assets/1344a9ce-dd98-417b-bfb4-d36e428caf82" />
+
 
 ---
 
