@@ -26,7 +26,8 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 | Component     | Tool Used   | Purpose                                         |
 |---------------|-------------|-------------------------------------------------|
-| Voice Input   | Retell AI   | Interact with customer using a conversational UI |
+| Voice Input   | Retell AI   | Interact with customer using a conversational UI |<img width="218" alt="Screenshot 2025-05-18 171545" src="https://github.com/user-attachments/assets/88db66c8-003f-4636-952d-818b10f9b6be" />
+
 | Booking       | Cal.com     | Check availability & confirm bookings           |
 | Data Capture  | Pabbly.com  | Form-based input integration for Cal.com        |
 | Automation    | Make.com    | Handles API calls, triggers, and logic flows    |
