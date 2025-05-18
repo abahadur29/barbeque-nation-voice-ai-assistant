@@ -17,7 +17,8 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 📐 Architecture Diagram
 
-<img width="719" alt="Conversational Flow " src="https://github.com/user-attachments/assets/67a4de8a-a16f-498f-b90d-1b0df84c57b0" />
+<img width="959" alt="flow" src="https://github.com/user-attachments/assets/fd603521-934a-4b25-9a50-4de3cdbc381b" />
+
 
 
 ---
@@ -34,6 +35,7 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 | Data Store    | Google Sheet| Stores outlet info, feedback logs, etc.         |
 
 ---
+
 
 ## 🔌 API Documentation
 
@@ -108,6 +110,11 @@ This Google Sheet serves as the centralized knowledge base for the system, allow
 
 This approach ensures that the knowledge base remains scalable and can be updated without disrupting the chatbot’s core functionality.
 
+### 📌 Booking a Table using Gemini Chatbot  
+https://drive.google.com/file/d/1xwSv8CaOhd9HwVHCbVm2iisLWuGdqDyH/view?usp=sharing
+
+### 📌 Canceling a Booking using Gemini Chatbot  
+https://drive.google.com/file/d/118GCSD0yTj2NH8L1yltWC-0oZiRSyy5k/view?usp=sharing
 
 ## 🗂️ Screenshots
 
