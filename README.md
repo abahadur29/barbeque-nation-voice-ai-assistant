@@ -17,7 +17,7 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 📐 Architecture Diagram
 
-> _Insert architecture diagram image here (showing interactions between Retell AI, Cal.com, Pabbly, Make.com, and Google Sheets)._
+<img width="719" alt="Conversational Flow " src="https://github.com/user-attachments/assets/67a4de8a-a16f-498f-b90d-1b0df84c57b0" />
 
 
 ---
