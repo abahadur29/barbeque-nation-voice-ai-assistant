@@ -133,7 +133,7 @@ This approach ensures that the knowledge base remains scalable and can be update
 - <img width="560" alt="Screenshot 2025-05-18 170938" src="https://github.com/user-attachments/assets/1344a9ce-dd98-417b-bfb4-d36e428caf82" />
 
 Additional Workflow Screenshot  
-- <img width="347" alt="image" src="https://github.com/user-attachments/assets/bb1f9046-3f53-43e5-a0ea-ec1d77212638" />
+- <img width="685" alt="image" src="https://github.com/user-attachments/assets/8a1f8638-ce6d-49aa-9424-34d8fdacbe7f" />
 
 ---
 
