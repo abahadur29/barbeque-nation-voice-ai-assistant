@@ -98,6 +98,16 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 
 ---
+## 📚 Knowledge Base Management
+
+The knowledge base used for the conversational AI was originally provided by the company as a PDF document. To make it easy to manage and update, I converted the PDF into a CSV file and then compiled it into a master Google Sheet.
+
+This Google Sheet serves as the centralized knowledge base for the system, allowing easy access, editing, and sharing of FAQs, menu details, and other relevant information. The chatbot references this master sheet to provide accurate and up-to-date responses.
+
+> [_Insert link to the Google Sheet here once shared_](https://docs.google.com/spreadsheets/d/1m-mGiZ3d3Kg0k4vHct_tAHqQ3syZtv48Elhvqsx__Z4/edit?usp=sharing)
+
+This approach ensures that the knowledge base remains scalable and can be updated without disrupting the chatbot’s core functionality.
+
 
 ## 🗂️ Screenshots
 
