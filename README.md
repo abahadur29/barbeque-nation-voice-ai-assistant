@@ -131,4 +131,4 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 ## 📬 Author
 
 Aditya Bahadur – B.Tech CSE, KIIT University  
-Connect: [LinkedIn](https://www.linkedin.com/in/aditya-bahadur)
+Connect: [LinkedIn](www.linkedin.com/in/aditya-bahadur-b3b709197)
