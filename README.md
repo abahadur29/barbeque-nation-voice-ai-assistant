@@ -17,8 +17,20 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 📐 Architecture Diagram
 
-<img width="959" alt="flow" src="https://github.com/user-attachments/assets/fd603521-934a-4b25-9a50-4de3cdbc381b" />
-
+         [User]
+           |
+        [Retell AI]
+           |
+         Intent
+           |
+        [Make.com]
+           |
+ ┌────────┴──────────┐
+ ↓                   ↓
+[Cal.com API]    [Google Sheets]
+ (Slot Book)     (Knowledge Base)
+           ↓
+      [Pabbly / Notify]
 
 
 ---
