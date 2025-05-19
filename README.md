@@ -175,10 +175,10 @@ Additional Workflow Screenshot
 
 The voice AI system successfully integrates with **Google Calendar** to schedule and confirm restaurant reservations. Below is a real-time screenshot showing a reservation booked at **4 PM on May 19, 2025**:
 
-![Google Calendar Booking Confirmation](./relative/path/to/4ace92d8-bfcc-4e45-9ec2-900025623722.png)
+<img width="955" alt="Screenshot 2025-05-19 132423" src="https://github.com/user-attachments/assets/b7d4fefe-2908-434e-a7df-f99aa54474a4" />
 
 > 📌 Event: *Restaurant reservation between Aditya Bahadur and Aditya Bahadur*  
-> 📍 Calendar Link: [Join Meeting](https://app.cal.com/video/aHkJg4PTYsyASDPK9nZjhV)
+> 📍 Calendar Link: (https://app.cal.com/video/aHkJg4PTYsyASDPK9nZjhV)
 
 ---
 
