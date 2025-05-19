@@ -1,6 +1,6 @@
 # barbeque-nation-voice-ai-assistant
 # 🧠 Barbeque Nation Conversational AI Assistant
-![c5165cfe-80d8-4137-9f19-939320e71425](https://github.com/user-attachments/assets/ef87a831-959d-4490-b484-5d05f7c1e501)
+![InShot_20250519_135106999](https://github.com/user-attachments/assets/ed3933b7-6b36-43a2-ac9c-ea6483d61126)
 
 This is a smart voice-based restaurant booking and support system for **Barbeque Nation**, built using **Retell AI**, **Cal.com**, **Pabbly**, and **Make.com**. The system handles user intents like table reservations, cancellations, rescheduling, complaints, and FAQs using conversational and multi-agent AI flows.
 
