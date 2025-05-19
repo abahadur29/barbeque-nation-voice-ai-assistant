@@ -17,7 +17,7 @@ This is a smart voice-based restaurant booking and support system for **Barbeque
 
 ## 📐 Architecture Diagram
 
-![Uploading image.png…]()
+<img width="959" alt="444898122-fd603521-934a-4b25-9a50-4de3cdbc381b" src="https://github.com/user-attachments/assets/3960eed8-2a33-4362-8581-bf0abb93a191" />
 
 
 
